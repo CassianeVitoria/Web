@@ -1,0 +1,40 @@
+
+nav { 
+    padding: 20px; 
+    text-transform: uppercase; 
+    color: #743535; }
+
+.main-content { 
+    padding: 20px; }
+
+.main-content h1 { 
+    font-size: 40px; }
+
+.main-content p { 
+    font-size: 20px; }
+
+.btn { 
+    background: rgb(218, 71, 13); 
+    color: #e0bbbb; 
+    padding: 10px; 
+    outline: 0; 
+    border: 0; 
+    font-size: 18px; 
+    border-radius: 10px; }
+
+    .HF { 
+        background: rgb(241, 4, 4); 
+        color: #e0bbbb; 
+        padding: 10px; 
+        outline: 0; 
+        border: 0; 
+        font-size: 18px; 
+        border-radius: 10px; }
+
+footer { 
+    color: #af6363; 
+    padding: 20px; 
+    text-align: center; 
+    position: fixed; 
+    bottom: 0; 
+    width: 100%; }

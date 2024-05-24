@@ -1,5 +1,5 @@
 <x-avaliacao>
-    <x-slot name="title">
+    <x-slot name='title' >
         Mundo Marvel
 </x-slot>
 <div>
